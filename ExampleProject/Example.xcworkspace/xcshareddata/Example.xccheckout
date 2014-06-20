@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>F6FF7C22-1562-4A01-9CD1-A3C34B7E21C3</string>
+	<string>DA4A8C0C-A476-43EC-B35F-81FCBD285B4C</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Example</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>56C72571-8325-46B6-BC46-920E7DE5B629</key>
-		<string>https://github.com/toursprung/TSMessages.git</string>
+		<key>40F35357-E270-4B3A-A401-5E84A0C53F92</key>
+		<string>ssh://github.com/hgia1234/TSMessages.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ExampleProject/Example.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>56C72571-8325-46B6-BC46-920E7DE5B629</key>
+		<key>40F35357-E270-4B3A-A401-5E84A0C53F92</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/toursprung/TSMessages.git</string>
+	<string>ssh://github.com/hgia1234/TSMessages.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>56C72571-8325-46B6-BC46-920E7DE5B629</string>
+	<string>40F35357-E270-4B3A-A401-5E84A0C53F92</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>56C72571-8325-46B6-BC46-920E7DE5B629</string>
+			<string>40F35357-E270-4B3A-A401-5E84A0C53F92</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TSMessages</string>
 		</dict>

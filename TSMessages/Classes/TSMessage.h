@@ -152,7 +152,7 @@ typedef NS_ENUM(NSInteger,TSMessageNotificationDuration) {
  @return YES if the currently displayed notification was successfully dismissed. NO if no notification
  was currently displayed.
  */
-+ (BOOL)dismissActiveNotificationWithCompletion:(void (^)())completion;
++ (BOOL)dismissActiveNotificationWithCompletion:(void (^)(BOOL didDismissNotification))completion;
 
 /** Use this method to set a default view controller to display the messages in */
 + (void)setDefaultViewController:(UIViewController *)defaultViewController;
